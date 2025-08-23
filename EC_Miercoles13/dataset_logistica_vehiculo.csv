@@ -1,0 +1,1201 @@
+suelo,inclinacion,combustible_L,distancia_km,km_por_L_real,llega
+pavimento,repecho,5.55,155.3,15.752451773112972,0
+tierra seca,bajada,11.72,138.2,13.747005926125134,1
+tierra mojada,bajada,5.68,69.9,11.622233548343159,0
+pasto,plano,9.96,82.6,7.0,0
+pavimento,plano,1.23,149.8,18.960059271210998,0
+pavimento,repecho,4.58,174.9,14.876376414344959,0
+pasto,repecho,2.74,86.7,7.0,0
+tierra mojada,bajada,8.36,135.3,10.674867986892307,0
+tierra mojada,bajada,4.76,87.2,11.903177834176713,0
+tierra mojada,bajada,5.97,44.7,11.520474230259762,1
+balasto,plano,10.08,127.5,10.434523414644156,0
+pasto,repecho,9.75,72.8,7.0,0
+tierra seca,repecho,2.11,40.0,7.054063255591113,0
+pasto,repecho,8.15,128.4,7.0,0
+tierra mojada,plano,7.04,29.5,9.195953048987517,1
+tierra mojada,repecho,5.92,103.9,7.0,0
+tierra mojada,plano,6.87,102.9,8.63467778815994,0
+pasto,bajada,5.52,42.6,8.846956540094707,1
+balasto,repecho,3.19,15.2,7.0,1
+balasto,bajada,8.11,102.5,13.12683175286137,1
+balasto,plano,5.17,147.5,9.470459247146678,0
+tierra seca,bajada,1.54,131.4,14.389577984628465,0
+pasto,bajada,6.26,31.7,9.357224940823956,1
+tierra mojada,plano,4.88,57.8,7.936225431274881,0
+pasto,plano,1.51,25.7,7.0,0
+tierra seca,repecho,8.55,51.5,8.039382638228853,1
+tierra seca,repecho,8.74,83.6,7.0,0
+pavimento,bajada,10.88,84.8,20.61814366144612,1
+pasto,bajada,7.16,35.9,7.843153716489236,1
+pavimento,repecho,8.77,80.6,15.017481716418754,1
+pavimento,plano,7.97,19.8,19.143420507965054,1
+pasto,bajada,6.18,62.7,9.285496847319607,0
+pasto,bajada,7.26,34.9,8.25873924687558,1
+balasto,plano,4.49,108.4,9.822221842320982,0
+pavimento,repecho,6.05,142.0,15.670501254315505,0
+tierra seca,plano,6.14,169.1,10.20836950397451,0
+tierra mojada,plano,3.57,63.0,7.667714191856252,0
+balasto,plano,0.75,149.6,10.125638853956275,0
+tierra mojada,bajada,6.87,24.0,10.610953672741335,1
+pavimento,bajada,8.08,132.2,21.0,1
+tierra seca,bajada,11.03,45.3,13.227906590214102,1
+pavimento,plano,4.77,150.2,19.670791362989075,0
+balasto,bajada,11.46,55.9,12.874689681873528,1
+balasto,bajada,11.26,33.8,12.636013215727376,1
+tierra seca,plano,11.91,161.0,12.263273005128347,0
+balasto,repecho,10.77,95.8,7.04480139336546,0
+pavimento,repecho,8.11,70.4,15.34300515076929,1
+pasto,repecho,3.52,168.9,7.0,0
+pavimento,bajada,10.06,31.8,21.0,1
+tierra seca,plano,10.56,39.4,10.284218384835338,1
+balasto,repecho,11.68,92.6,7.0,0
+balasto,bajada,3.14,28.1,13.515151034621486,1
+balasto,bajada,6.32,126.5,12.024949551661098,0
+tierra mojada,bajada,9.75,130.2,9.938885825808349,0
+balasto,bajada,1.92,167.3,12.612664453333137,0
+balasto,bajada,6.12,121.0,14.069918485954195,0
+tierra mojada,bajada,11.14,9.4,11.193997433016976,1
+pavimento,plano,1.72,29.6,19.182582664111123,1
+pavimento,repecho,7.35,168.3,14.77009331076066,0
+tierra mojada,plano,9.52,8.1,8.964682896710586,1
+tierra seca,repecho,9.66,45.7,7.0,1
+pasto,plano,10.48,110.5,7.0,0
+pavimento,plano,5.4,119.1,17.593817286914696,0
+tierra seca,plano,3.35,46.4,10.122571537236288,0
+balasto,repecho,1.71,16.6,7.0,0
+tierra seca,bajada,9.98,59.3,13.803777723246313,1
+balasto,repecho,2.4,54.8,7.0,0
+tierra mojada,bajada,0.74,14.7,11.185735911701006,0
+balasto,bajada,7.3,124.1,13.124343462134773,0
+balasto,bajada,6.3,158.1,12.422753573165721,0
+tierra mojada,bajada,2.59,46.4,12.674534647144476,0
+pasto,plano,5.29,13.6,7.0,1
+pavimento,repecho,1.1,166.8,13.604331210420646,0
+balasto,repecho,10.88,176.4,7.0,0
+tierra mojada,repecho,7.89,141.3,7.0,0
+balasto,plano,6.41,155.1,7.946673247254962,0
+pasto,plano,7.85,51.6,7.0,1
+tierra mojada,plano,5.29,45.7,7.0,0
+tierra mojada,plano,4.27,71.4,7.157681191436841,0
+tierra seca,bajada,11.41,165.4,15.385849284327955,1
+pasto,bajada,6.66,153.5,9.35119452699064,0
+tierra seca,repecho,6.63,115.8,7.0,0
+pavimento,repecho,2.83,126.6,14.847479153995872,0
+balasto,plano,1.59,132.0,10.584619752910916,0
+tierra mojada,repecho,2.08,172.8,7.0,0
+tierra mojada,plano,9.5,144.1,7.189026106847681,0
+pavimento,bajada,7.29,21.6,21.0,1
+pavimento,plano,7.08,86.5,19.24349338322421,1
+pasto,repecho,9.69,91.1,7.0,0
+pavimento,repecho,1.88,25.5,16.180759238442807,1
+tierra mojada,plano,5.31,140.5,8.65101095197297,0
+pasto,plano,10.83,138.4,7.0,0
+pasto,plano,4.12,32.6,7.0,0
+pavimento,repecho,5.54,72.1,16.185164438127178,1
+pavimento,plano,11.27,141.6,19.675508152388257,1
+pavimento,plano,11.85,130.6,19.673456053512048,1
+tierra mojada,bajada,10.28,116.5,9.397182166346788,0
+tierra mojada,plano,8.39,7.2,9.047640547888422,1
+pasto,repecho,3.9,85.2,7.0,0
+pavimento,bajada,11.06,141.7,20.869787292886105,1
+tierra seca,repecho,10.61,54.7,7.367508617373289,1
+pavimento,bajada,11.99,121.5,21.0,1
+pasto,bajada,10.82,10.1,8.436261389704095,1
+tierra mojada,bajada,9.43,39.7,10.685007062220341,1
+tierra seca,plano,0.92,6.0,11.66361523361926,1
+balasto,plano,9.72,46.7,8.133107104121356,1
+tierra seca,bajada,9.71,167.4,14.158232065553483,0
+balasto,repecho,10.14,12.0,7.0,1
+pavimento,bajada,6.3,135.4,21.0,0
+pavimento,repecho,2.28,133.6,14.289492917013078,0
+pavimento,bajada,8.66,176.5,20.89425478769837,1
+tierra mojada,bajada,7.59,12.4,10.895130679449819,1
+tierra mojada,repecho,2.49,21.1,7.0,0
+tierra seca,repecho,5.77,142.2,7.0,0
+balasto,plano,2.17,170.6,9.725771079308496,0
+tierra mojada,plano,8.55,118.6,8.8916739556619,0
+pavimento,bajada,6.35,75.7,21.0,1
+pavimento,bajada,2.04,53.7,21.0,0
+pasto,plano,7.53,116.1,7.0,0
+pavimento,plano,3.0,108.0,18.106092709608312,0
+balasto,bajada,5.31,88.0,13.884794695925839,0
+pavimento,plano,7.01,127.9,18.772508929567923,1
+tierra mojada,plano,4.14,142.8,8.851081226187487,0
+pavimento,plano,7.7,68.1,19.17846379410022,1
+balasto,repecho,10.69,166.2,7.0,0
+pasto,plano,9.7,60.0,7.0,1
+tierra seca,plano,1.83,17.6,11.868229603556728,1
+balasto,bajada,3.73,63.5,12.75306155556287,0
+pasto,bajada,9.04,7.6,7.407350403900802,1
+pasto,repecho,4.78,31.9,7.0,1
+pasto,bajada,4.7,172.7,10.936332009797923,0
+tierra mojada,repecho,4.08,125.3,7.0,0
+pasto,plano,7.87,6.9,7.0,1
+pasto,plano,2.38,34.0,7.0,0
+balasto,repecho,6.89,151.8,7.068627469056186,0
+pasto,bajada,5.65,73.7,10.164036461016568,0
+balasto,repecho,5.49,87.1,7.0,0
+tierra seca,bajada,10.93,12.8,12.747392742255588,1
+pavimento,bajada,6.14,107.6,20.08459175607962,1
+pavimento,bajada,3.3,152.6,21.0,0
+tierra mojada,plano,8.21,138.5,8.162710592495955,0
+pasto,plano,6.7,64.2,7.0,0
+tierra seca,plano,9.34,154.1,10.930324663157991,0
+tierra mojada,repecho,7.25,153.8,7.0,0
+tierra mojada,plano,6.61,23.4,7.943455694678343,1
+balasto,repecho,7.75,36.1,7.0,1
+tierra seca,bajada,0.79,167.3,14.43874233666384,0
+tierra mojada,bajada,7.38,6.3,11.209628649659505,1
+pavimento,repecho,7.79,176.8,16.068948880009735,0
+balasto,plano,9.26,163.1,8.0720624273601,0
+tierra seca,repecho,9.49,156.7,7.571517186104527,0
+tierra mojada,repecho,5.56,101.8,7.0,0
+tierra mojada,repecho,11.82,55.4,7.0,1
+balasto,repecho,4.48,26.7,7.0,1
+tierra mojada,repecho,6.13,177.5,7.0,0
+tierra seca,repecho,5.23,143.9,8.019557773552991,0
+tierra seca,plano,9.72,166.8,11.610341185869549,0
+tierra seca,bajada,4.79,13.5,13.17255355866048,1
+balasto,repecho,8.7,140.4,7.0,0
+pasto,repecho,9.71,13.6,7.0,1
+pavimento,plano,10.37,5.8,19.21513075814288,1
+tierra seca,repecho,0.84,75.2,7.0,0
+pasto,repecho,3.23,154.2,7.0,0
+pasto,repecho,3.94,108.3,7.0,0
+pavimento,bajada,10.7,37.8,21.0,1
+pasto,plano,8.75,146.3,7.642147985556713,0
+pasto,bajada,5.19,28.9,9.49220541357485,1
+pavimento,repecho,8.56,109.2,15.131512562381841,1
+tierra mojada,repecho,6.21,28.5,7.0,1
+pavimento,bajada,2.82,8.1,21.0,1
+balasto,plano,4.45,78.6,8.64642988066419,0
+balasto,repecho,6.72,54.8,7.0,0
+tierra seca,bajada,4.24,164.1,13.581825043064256,0
+balasto,repecho,7.29,119.4,7.0,0
+balasto,bajada,4.21,32.2,14.90608182614726,1
+pavimento,plano,9.61,142.2,19.653420693760633,1
+balasto,plano,11.94,123.1,9.65167402164483,0
+tierra mojada,bajada,6.96,22.8,10.63292760548056,1
+tierra seca,repecho,6.4,80.8,7.761642922511912,0
+balasto,repecho,1.68,12.2,7.0,0
+tierra mojada,bajada,5.73,95.3,11.890372713328212,0
+pavimento,bajada,1.78,72.3,21.0,0
+balasto,repecho,2.88,57.9,7.0,0
+tierra seca,plano,0.52,24.6,10.171937508767487,0
+pavimento,bajada,6.34,90.7,20.749217641705048,1
+tierra mojada,plano,9.48,152.2,7.923056850461334,0
+tierra seca,bajada,3.29,89.0,13.261690846483786,0
+tierra seca,bajada,4.3,167.8,13.087871264699016,0
+tierra mojada,plano,8.68,31.3,8.438991055091302,1
+tierra seca,bajada,11.07,6.6,14.62221391126794,1
+balasto,bajada,1.77,113.5,13.801396318121206,0
+pavimento,plano,7.29,153.7,19.079227856805762,0
+tierra seca,repecho,7.62,33.5,7.0,1
+balasto,repecho,3.42,165.8,7.0,0
+balasto,plano,11.82,68.3,9.263319681752698,1
+pavimento,bajada,9.69,110.1,21.0,1
+tierra mojada,plano,4.15,18.7,8.272633126401685,1
+pasto,plano,0.72,34.0,7.0,0
+balasto,repecho,8.99,60.5,7.0,1
+pavimento,plano,1.95,30.2,18.125222903630412,1
+pavimento,bajada,6.33,178.6,21.0,0
+balasto,bajada,11.92,107.3,13.009156351273173,1
+tierra mojada,repecho,10.62,98.8,7.0,0
+pavimento,bajada,1.08,109.0,21.0,0
+tierra seca,plano,10.12,8.2,11.796561108719938,1
+pavimento,bajada,10.55,49.4,21.0,1
+pavimento,plano,5.06,123.6,20.029864889284053,0
+pasto,plano,9.22,177.1,7.0,0
+balasto,plano,0.64,144.3,10.202307851975918,0
+tierra mojada,plano,1.58,160.7,7.678405935896636,0
+pavimento,repecho,2.22,173.3,14.61500710090767,0
+pasto,bajada,10.38,164.7,8.07033638981257,0
+tierra seca,plano,8.94,158.7,11.024733822426159,0
+tierra mojada,plano,9.03,132.9,8.316747099544658,0
+balasto,plano,1.7,163.2,9.397686466217102,0
+balasto,repecho,1.65,40.8,7.469909340390016,0
+tierra mojada,bajada,11.76,71.0,12.402952821360865,1
+balasto,repecho,5.04,60.8,8.543082943494028,0
+tierra mojada,plano,5.21,110.3,7.710533970332527,0
+tierra mojada,plano,2.76,71.0,8.222860731609444,0
+pasto,bajada,2.37,124.8,7.450426453835668,0
+pavimento,repecho,3.3,22.3,14.953271004913054,1
+tierra mojada,repecho,3.7,40.4,7.0,0
+tierra mojada,plano,5.89,50.4,8.22309142771779,0
+pavimento,plano,11.53,119.2,17.486442997350473,1
+balasto,bajada,3.4,56.6,12.917263909140294,0
+tierra seca,repecho,10.87,177.3,7.0,0
+tierra seca,repecho,1.33,29.1,7.995957902917157,0
+tierra seca,plano,1.62,153.0,10.33357062176319,0
+tierra mojada,plano,2.4,49.3,7.750602935342043,0
+pavimento,repecho,7.22,133.6,15.38310043081637,0
+balasto,plano,5.16,138.0,9.882046008065466,0
+pavimento,bajada,11.33,26.1,21.0,1
+pasto,bajada,3.54,153.1,8.3985953217492,0
+pasto,plano,5.67,47.9,7.0,0
+pavimento,repecho,10.56,64.4,15.423530725700578,1
+pasto,bajada,3.32,33.2,8.30639579494126,0
+pavimento,repecho,9.44,95.6,16.50573990416324,1
+tierra mojada,plano,6.67,81.0,8.060570630365467,0
+tierra seca,bajada,11.45,89.4,15.317915198082664,1
+pavimento,bajada,6.88,41.4,21.0,1
+balasto,bajada,1.87,165.4,13.709115167654362,0
+balasto,plano,5.85,75.1,9.715441347543173,0
+pasto,bajada,11.87,148.2,7.0,0
+tierra seca,plano,2.26,166.1,10.070056975888056,0
+tierra mojada,bajada,4.44,144.0,12.794336249922388,0
+pavimento,repecho,9.63,42.1,15.104821692954737,1
+tierra mojada,plano,7.85,5.4,7.0,1
+tierra seca,bajada,1.21,85.2,14.027689499348204,0
+tierra mojada,bajada,7.77,73.8,11.493451359751823,1
+pasto,bajada,8.85,85.7,8.670130502236216,0
+pasto,plano,5.94,171.3,7.0,0
+tierra mojada,bajada,8.3,153.1,11.505585187009116,0
+balasto,plano,10.76,136.2,10.483449918244386,0
+tierra mojada,plano,8.09,57.9,9.183419608539385,1
+pasto,plano,8.99,75.5,7.0,0
+pavimento,repecho,6.35,163.7,15.659002505500945,0
+pavimento,plano,4.44,76.4,19.507128302186995,1
+tierra seca,bajada,1.55,121.8,13.700126829681912,0
+pasto,plano,0.73,62.1,7.153843832948995,0
+pavimento,repecho,10.4,48.2,14.183163871457342,1
+pavimento,bajada,3.66,29.3,21.0,1
+tierra seca,repecho,10.97,40.4,7.492907734401791,1
+tierra mojada,repecho,11.46,111.8,7.0,0
+tierra seca,plano,4.19,175.8,11.162220038601895,0
+tierra mojada,repecho,0.77,75.0,7.0,0
+balasto,plano,5.61,168.8,10.541921094953842,0
+tierra seca,bajada,6.76,90.7,14.081540709898126,1
+balasto,plano,3.31,164.7,10.434075570633569,0
+tierra seca,repecho,11.75,135.4,7.0,0
+tierra seca,repecho,6.03,84.9,8.177611653192107,0
+pasto,plano,3.83,50.1,7.0,0
+tierra seca,plano,3.02,147.8,11.905787657743398,0
+tierra mojada,bajada,0.59,63.8,11.364018976278016,0
+pavimento,repecho,2.09,140.5,14.108306429545658,0
+pavimento,plano,11.98,38.7,19.18142883688731,1
+pavimento,plano,7.63,168.3,20.148240125316352,0
+pasto,bajada,2.09,143.4,9.049533186943968,0
+tierra mojada,repecho,8.13,24.6,7.0,1
+tierra mojada,bajada,5.37,101.6,11.006804501378523,0
+tierra seca,repecho,8.01,178.6,7.98103436451916,0
+pavimento,bajada,8.87,175.9,21.0,1
+tierra seca,plano,5.38,14.0,11.415728458677203,1
+pasto,plano,9.56,150.6,7.0,0
+balasto,plano,4.2,136.0,9.782660493050166,0
+pavimento,plano,10.77,30.2,19.063190973072007,1
+balasto,bajada,2.27,98.4,12.209098280452315,0
+tierra mojada,bajada,0.51,81.4,10.811336510260118,0
+pavimento,bajada,8.0,149.0,21.0,1
+pavimento,bajada,10.4,149.0,21.0,1
+tierra mojada,repecho,1.57,74.0,7.0,0
+tierra mojada,bajada,9.15,93.2,11.003037001297168,1
+pasto,plano,4.73,43.4,7.0,0
+pasto,repecho,1.87,20.0,7.0,0
+pavimento,bajada,9.97,74.7,21.0,1
+balasto,bajada,8.02,83.5,13.088490498062942,1
+pavimento,repecho,11.72,157.8,13.865852663872344,1
+pasto,bajada,8.04,55.6,7.794139481781562,1
+pavimento,plano,6.84,150.0,20.441393558197717,0
+tierra mojada,bajada,1.07,110.3,9.473495669419787,0
+pasto,bajada,5.31,137.6,7.719835320765218,0
+tierra seca,plano,4.93,52.4,11.333977566993612,1
+pavimento,bajada,6.99,123.4,21.0,1
+tierra seca,bajada,2.94,161.5,14.292290993651013,0
+pasto,bajada,10.74,87.2,9.806008616789248,1
+balasto,repecho,1.18,42.7,7.568387680626421,0
+tierra mojada,bajada,8.31,42.5,10.15337515932989,1
+tierra mojada,bajada,5.36,35.8,10.918082634711123,1
+pasto,repecho,4.18,68.1,7.0,0
+tierra mojada,plano,3.55,111.8,7.608738025504861,0
+balasto,repecho,11.19,22.5,7.0,1
+pavimento,bajada,7.63,26.3,21.0,1
+balasto,repecho,9.93,97.1,7.0,0
+tierra mojada,bajada,5.11,61.7,10.538682166213047,0
+pavimento,plano,9.77,34.8,18.101785254183206,1
+tierra seca,plano,6.18,174.9,11.06920443353717,0
+balasto,plano,7.22,27.4,10.456429628910788,1
+tierra seca,bajada,1.69,156.6,13.198966853794765,0
+tierra mojada,plano,5.2,80.5,8.054389300840871,0
+tierra seca,repecho,11.23,73.5,7.0,1
+tierra seca,plano,7.03,85.8,11.241576594015417,0
+tierra seca,plano,4.19,65.5,10.96916939052527,0
+tierra mojada,bajada,2.41,131.5,11.077930730366226,0
+balasto,bajada,6.97,137.2,12.907600896560853,0
+tierra mojada,repecho,11.17,109.5,7.0,0
+balasto,bajada,11.37,73.7,13.298441854747342,1
+balasto,plano,0.55,11.7,11.29605624730884,0
+balasto,plano,0.81,135.1,8.263507672163671,0
+tierra seca,plano,5.86,6.0,11.200357040208608,1
+balasto,bajada,10.61,70.3,13.65935969583669,1
+pavimento,bajada,2.35,140.6,20.296641688639987,0
+tierra seca,plano,11.6,173.6,10.470866486154547,0
+balasto,bajada,7.33,158.7,11.33247827600922,0
+tierra seca,repecho,6.04,103.8,7.0,0
+pasto,plano,5.39,69.7,7.0,0
+pavimento,bajada,9.64,151.6,21.0,1
+pasto,bajada,10.55,9.2,9.30083549569809,1
+tierra mojada,plano,8.44,33.6,7.5513966687298035,1
+pavimento,plano,7.62,12.0,19.77397301834001,1
+balasto,plano,2.96,29.4,10.593623122383592,1
+tierra mojada,plano,1.61,170.8,8.216076347357829,0
+tierra seca,repecho,11.71,19.1,7.526310408346544,1
+balasto,repecho,7.79,80.1,7.0,0
+tierra seca,bajada,6.65,178.9,15.847875537672063,0
+pasto,bajada,8.62,57.8,8.912683878750933,1
+tierra seca,bajada,11.26,151.6,14.282101763133738,1
+pavimento,repecho,2.29,98.6,14.594315775657407,0
+balasto,plano,5.07,82.9,10.733049152859653,0
+pavimento,repecho,4.07,38.1,15.301558228556297,1
+pavimento,repecho,1.58,156.8,15.767672420600059,0
+tierra mojada,repecho,11.72,152.4,7.0,0
+pasto,bajada,9.65,100.5,9.141809093559084,0
+balasto,repecho,11.68,128.3,7.0,0
+tierra mojada,plano,4.94,68.3,8.075346446585849,0
+pavimento,bajada,1.39,141.5,21.0,0
+pavimento,repecho,7.54,11.2,15.3697699912085,1
+balasto,bajada,11.72,43.3,12.854000125879791,1
+pasto,repecho,11.74,46.4,7.0,1
+tierra seca,bajada,1.23,39.1,14.555736489302728,0
+tierra seca,repecho,6.68,114.5,7.410559848861745,0
+tierra mojada,repecho,7.6,156.2,7.0,0
+pavimento,plano,1.54,44.5,19.796392226356254,0
+pasto,repecho,4.85,139.9,7.0,0
+tierra mojada,bajada,4.19,119.3,10.270845101490167,0
+pavimento,plano,3.13,131.3,19.596399125219985,0
+pasto,repecho,2.66,23.8,7.0,0
+tierra mojada,plano,6.34,81.4,7.0,0
+pavimento,plano,6.0,78.8,19.288473342125474,1
+pasto,plano,3.12,116.6,7.0,0
+tierra mojada,repecho,5.89,161.9,7.0,0
+pasto,bajada,9.96,118.4,8.683804683997222,0
+balasto,plano,7.84,154.8,10.072594051001738,0
+tierra seca,plano,8.12,122.6,10.42031115878582,0
+pasto,plano,5.39,147.1,7.0,0
+pavimento,repecho,5.79,42.7,13.585902309648496,1
+tierra seca,bajada,2.78,114.7,12.191668194129718,0
+tierra seca,repecho,3.63,24.4,7.0,1
+balasto,bajada,2.77,56.0,13.45065045881314,0
+pavimento,repecho,9.25,128.9,14.352410944885786,1
+pasto,plano,6.0,30.8,7.0,1
+tierra seca,bajada,1.96,101.3,13.142638938510604,0
+pavimento,bajada,6.03,141.9,21.0,0
+pavimento,repecho,5.65,148.6,14.500317273427857,0
+tierra seca,plano,2.53,86.8,11.398975552855779,0
+pasto,bajada,9.15,59.9,9.105877205122137,1
+tierra seca,bajada,5.55,58.0,12.402026645688112,1
+balasto,bajada,9.28,167.8,14.04962020977593,0
+pasto,plano,10.47,179.8,7.0,0
+tierra mojada,repecho,10.95,143.5,7.0,0
+pasto,bajada,0.68,88.5,9.493825264393807,0
+tierra mojada,plano,7.03,101.6,7.068137522831168,0
+balasto,bajada,3.09,143.8,11.650121844469318,0
+pasto,repecho,10.54,160.7,7.0,0
+pavimento,plano,3.58,111.1,18.81067294027848,0
+tierra mojada,plano,6.91,56.9,8.316407285090007,1
+tierra seca,bajada,1.17,171.1,13.70762432470862,0
+pavimento,repecho,8.34,38.6,15.617226607809535,1
+tierra seca,repecho,3.54,164.8,7.111939449631291,0
+tierra seca,repecho,9.87,46.2,7.0,1
+tierra seca,repecho,3.54,80.2,7.0,0
+pasto,bajada,9.42,140.1,8.98964898551713,0
+pasto,repecho,2.95,5.8,7.0,1
+tierra seca,repecho,0.94,41.4,7.0,0
+pasto,repecho,1.52,74.2,7.0,0
+pavimento,plano,2.67,39.2,18.635577723997255,1
+tierra mojada,plano,10.41,117.4,7.416338244691483,0
+pavimento,repecho,5.24,75.6,15.190880632742754,1
+pavimento,bajada,8.89,137.1,21.0,1
+tierra mojada,plano,2.81,37.4,9.086496876693808,0
+tierra seca,bajada,9.65,163.8,13.692959259433804,0
+pasto,bajada,3.65,49.6,9.06287896489203,0
+pavimento,repecho,5.12,44.3,13.57841068853914,1
+pasto,plano,0.9,33.3,7.0,0
+tierra mojada,repecho,2.93,165.5,7.0,0
+tierra seca,repecho,3.12,13.8,7.862274684596145,1
+tierra mojada,bajada,7.62,138.0,10.98636968853003,0
+pavimento,repecho,11.29,132.5,15.779055257373848,1
+pavimento,repecho,6.57,135.3,15.402438934701491,0
+pavimento,repecho,3.81,25.6,13.806315331621606,1
+tierra seca,plano,6.31,107.0,10.857075864788888,0
+balasto,repecho,11.0,48.2,7.0,1
+tierra seca,repecho,6.52,38.0,7.310779360681233,1
+tierra mojada,repecho,8.8,165.6,7.0,0
+tierra seca,plano,7.84,87.9,11.953111712233131,1
+tierra seca,bajada,5.24,158.2,14.225564693915326,0
+tierra mojada,repecho,4.9,176.5,7.0,0
+pasto,bajada,9.36,63.9,9.79082549028117,1
+tierra seca,plano,10.04,9.3,9.799464477774528,1
+balasto,repecho,6.98,91.7,7.0,0
+tierra mojada,plano,10.45,10.4,7.8868835982849586,1
+tierra mojada,repecho,1.09,136.2,7.0,0
+tierra mojada,repecho,9.08,160.0,7.0,0
+tierra mojada,plano,9.46,48.0,7.0,1
+tierra mojada,bajada,11.52,129.3,11.113135578672436,0
+tierra seca,repecho,6.61,88.3,7.0,0
+pavimento,plano,2.82,160.4,18.535231849174814,0
+pavimento,plano,7.15,29.7,18.18985291888947,1
+pavimento,repecho,11.1,63.1,15.485032924886967,1
+tierra seca,bajada,1.54,26.0,13.469838873315789,0
+pavimento,repecho,1.35,28.2,14.247575827599027,0
+pasto,plano,9.41,115.4,7.0,0
+tierra seca,plano,6.5,129.7,10.586791406271335,0
+pasto,plano,5.88,34.7,7.0,1
+pasto,bajada,2.27,48.1,9.405266523352203,0
+pasto,bajada,8.39,154.9,8.538402902897973,0
+balasto,repecho,4.04,42.9,7.0,0
+pasto,repecho,3.89,104.5,7.0,0
+tierra seca,plano,7.65,111.8,10.175426374454128,0
+balasto,bajada,8.48,123.1,12.495933991795464,0
+pasto,bajada,5.64,76.6,8.026625265290875,0
+balasto,bajada,5.57,135.0,12.638892439228483,0
+pavimento,repecho,5.93,92.4,15.895600544642333,1
+pasto,repecho,6.16,97.5,7.0,0
+balasto,repecho,1.33,95.2,7.0,0
+tierra mojada,repecho,6.18,87.0,7.0,0
+tierra mojada,plano,2.58,43.0,7.0,0
+tierra mojada,bajada,5.47,139.6,9.518270515679038,0
+pasto,bajada,7.05,32.0,8.549222859659944,1
+balasto,bajada,7.71,62.1,12.756458589714667,1
+tierra seca,plano,9.24,45.4,11.381628101781166,1
+balasto,plano,9.2,153.7,8.437747575961401,0
+balasto,bajada,3.8,48.8,13.136141554553546,1
+pasto,plano,11.93,178.3,7.0,0
+tierra seca,plano,10.39,168.3,11.977382932974074,0
+tierra seca,plano,10.08,58.1,11.688423766369157,1
+tierra seca,repecho,11.83,163.6,7.597817640914764,0
+balasto,bajada,4.19,100.8,13.462929307052134,0
+pavimento,plano,7.82,76.5,20.182623148572848,1
+balasto,plano,4.3,27.3,10.703163222160715,1
+tierra mojada,repecho,5.63,44.9,7.0,0
+balasto,plano,0.74,60.4,9.486765823373723,0
+tierra seca,plano,3.66,16.4,11.380102453878408,1
+balasto,plano,0.75,153.5,10.314701496203277,0
+tierra mojada,plano,5.61,82.5,9.130010455968804,0
+tierra mojada,repecho,10.77,6.9,7.0,1
+tierra mojada,repecho,6.82,31.3,7.0,1
+balasto,plano,8.84,109.9,9.148421803099062,0
+balasto,plano,3.95,88.5,11.140263154776244,0
+pasto,bajada,1.03,66.6,8.634552015409069,0
+tierra seca,bajada,5.55,117.7,13.149152216452226,0
+pasto,repecho,9.82,129.5,7.0,0
+balasto,plano,7.44,48.0,9.78686917273986,1
+balasto,bajada,5.73,77.4,12.640023694508281,0
+pavimento,repecho,11.15,40.2,15.482349555004177,1
+tierra mojada,bajada,11.14,171.6,11.025896080581624,0
+balasto,repecho,11.66,163.5,7.0,0
+pavimento,plano,1.4,153.7,19.952244562808094,0
+balasto,plano,5.3,105.1,9.746170619798047,0
+pasto,repecho,1.36,132.7,7.0,0
+tierra mojada,plano,6.36,59.6,7.533507942157847,0
+pavimento,repecho,4.74,35.6,13.624671092899163,1
+pasto,plano,11.34,133.5,7.0,0
+balasto,repecho,4.85,154.1,7.0,0
+tierra mojada,plano,11.16,50.1,7.017667559446525,1
+pasto,repecho,2.23,20.5,7.0,0
+balasto,plano,1.32,88.2,10.045129253735656,0
+pavimento,bajada,4.35,153.0,21.0,0
+tierra seca,repecho,5.63,171.8,7.0,0
+pavimento,bajada,10.68,90.6,21.0,1
+tierra seca,bajada,8.41,13.3,14.19071069986994,1
+tierra mojada,bajada,5.57,77.5,10.811332604948655,0
+tierra seca,bajada,0.87,112.5,12.927715033583038,0
+tierra seca,plano,1.75,7.4,12.260066262086985,1
+tierra seca,plano,5.03,146.8,11.024837760390843,0
+balasto,plano,7.33,8.8,10.158704928501152,1
+pasto,plano,5.34,22.6,7.0,1
+balasto,repecho,0.76,110.2,7.0,0
+balasto,bajada,9.56,115.7,12.575342537496283,1
+balasto,repecho,0.99,82.9,7.0,0
+tierra mojada,bajada,4.37,177.8,10.924644339719332,0
+pavimento,plano,10.19,61.7,17.988366406441667,1
+pavimento,repecho,5.96,27.9,15.127438227063713,1
+pasto,plano,1.54,79.1,7.0,0
+pasto,plano,11.67,50.3,7.0,1
+pasto,repecho,5.65,53.9,7.0,0
+balasto,plano,6.6,175.9,9.6052254326769,0
+pasto,bajada,0.86,73.6,9.58946922473604,0
+pasto,repecho,2.59,123.1,7.0,0
+tierra mojada,plano,4.51,130.4,7.389248546151472,0
+pasto,plano,10.31,105.1,7.0,0
+pavimento,repecho,4.44,11.8,14.020236177879568,1
+tierra mojada,bajada,3.24,135.7,11.043028345025856,0
+tierra seca,repecho,11.27,111.1,7.0,0
+tierra mojada,repecho,11.92,64.8,7.0,1
+pavimento,plano,6.63,36.1,19.771640545791467,1
+tierra seca,bajada,11.17,51.3,13.726277687414361,1
+balasto,bajada,3.26,52.9,13.045197353594586,0
+tierra seca,bajada,4.85,72.4,12.275193595152496,0
+tierra seca,bajada,1.53,9.4,13.077060066880192,1
+tierra seca,repecho,11.89,167.5,7.0,0
+pasto,plano,4.12,140.4,7.0,0
+pasto,repecho,10.8,81.0,7.0,0
+pasto,repecho,4.05,167.6,7.0,0
+balasto,repecho,9.36,21.3,7.0,1
+pavimento,bajada,9.36,144.9,21.0,1
+tierra mojada,repecho,1.63,53.3,7.0,0
+balasto,bajada,5.65,51.4,13.391507151150726,1
+balasto,plano,10.61,52.3,10.172078508655229,1
+balasto,plano,4.27,92.9,9.352699212047169,0
+tierra mojada,bajada,6.28,31.6,12.765220245712321,1
+pasto,plano,5.25,149.2,7.0,0
+pasto,repecho,9.52,174.3,7.0,0
+pavimento,bajada,6.55,34.7,21.0,1
+tierra seca,plano,3.53,167.7,13.16318808582351,0
+tierra seca,plano,8.79,15.3,10.245856068374927,1
+pavimento,repecho,1.28,94.6,14.949193060449385,0
+pavimento,plano,1.86,169.0,19.179437845745277,0
+tierra seca,bajada,4.22,107.8,14.541987873673115,0
+tierra mojada,plano,2.3,23.2,9.040926678921625,0
+tierra seca,plano,11.11,20.4,13.250119398590979,1
+tierra mojada,repecho,11.4,60.1,7.0,1
+pasto,plano,5.29,38.3,7.0,0
+balasto,bajada,8.61,16.8,13.482405482741342,1
+pavimento,plano,4.4,119.7,17.510012197900163,0
+pasto,repecho,9.11,158.3,7.0,0
+balasto,bajada,4.74,99.0,13.580878689157068,0
+balasto,bajada,4.74,49.5,13.13840571172178,1
+pavimento,bajada,3.51,114.7,21.0,0
+tierra seca,plano,6.64,140.1,11.072640018888038,0
+tierra seca,plano,11.61,96.3,10.635075043107713,1
+balasto,repecho,1.18,80.1,7.0,0
+tierra mojada,repecho,5.77,21.2,7.0,1
+pavimento,bajada,9.14,93.8,21.0,1
+balasto,repecho,7.73,112.2,7.0,0
+tierra mojada,repecho,10.49,11.4,7.0,1
+pasto,bajada,10.39,118.5,9.388065413651304,0
+pavimento,bajada,4.4,128.2,21.0,0
+pasto,bajada,10.71,138.7,8.277994794845366,0
+tierra seca,bajada,11.68,128.9,12.885062012507063,1
+tierra seca,bajada,3.94,11.9,12.734266387098465,1
+pasto,bajada,0.56,132.7,8.170734420104274,0
+tierra seca,repecho,5.92,90.1,7.8270289343511195,0
+pavimento,bajada,6.5,80.5,21.0,1
+pasto,repecho,11.94,18.8,7.0,1
+pavimento,bajada,4.55,55.3,21.0,1
+pavimento,repecho,6.21,165.9,15.333094518511164,0
+balasto,bajada,5.14,19.0,13.101493581036674,1
+tierra seca,repecho,2.9,39.7,7.0,0
+tierra mojada,plano,7.18,70.9,8.883952391166181,0
+tierra seca,bajada,5.43,125.7,14.5579906495368,0
+balasto,plano,7.03,17.1,10.357329212223123,1
+pasto,bajada,8.87,55.4,9.931955556150502,1
+pavimento,bajada,10.42,151.2,21.0,1
+tierra seca,bajada,1.15,154.4,11.789859595461005,0
+tierra mojada,plano,5.4,144.2,9.548304946823288,0
+pavimento,plano,11.87,31.3,19.661125847914608,1
+balasto,bajada,5.99,160.1,13.396896566471028,0
+balasto,repecho,3.53,78.3,7.787508996958145,0
+tierra seca,plano,5.82,62.2,11.912202624755425,1
+pasto,bajada,4.7,31.2,7.2244205931015575,1
+tierra seca,plano,2.04,126.4,10.278311089455158,0
+pavimento,bajada,2.23,6.5,21.0,1
+tierra seca,repecho,11.85,12.9,7.8395988846906555,1
+pavimento,bajada,7.31,137.3,20.356190953859766,1
+tierra mojada,bajada,7.34,178.5,10.858907239608536,0
+tierra seca,bajada,1.93,102.2,14.521232496515168,0
+tierra seca,repecho,9.16,161.2,7.0,0
+tierra seca,bajada,6.89,57.0,14.967411654740301,1
+tierra mojada,repecho,8.34,175.6,7.0,0
+pavimento,plano,6.1,23.8,19.895517729598705,1
+balasto,plano,1.27,168.0,9.119470988612512,0
+pavimento,bajada,9.3,22.0,21.0,1
+balasto,repecho,1.29,126.1,7.0,0
+tierra seca,repecho,10.02,130.7,7.0,0
+tierra mojada,bajada,8.52,172.5,9.712954632584022,0
+pavimento,plano,5.53,137.3,17.431323521224375,0
+tierra mojada,bajada,2.83,99.4,10.290028940206271,0
+balasto,plano,1.06,75.7,9.484633399690841,0
+pasto,plano,8.06,131.0,7.0,0
+tierra seca,repecho,7.68,99.1,7.0,0
+pasto,bajada,3.64,97.3,7.102243577549189,0
+tierra mojada,repecho,1.54,108.6,7.0,0
+pavimento,repecho,10.02,108.9,14.404013649019486,1
+tierra seca,plano,5.63,156.2,9.511045052395556,0
+tierra seca,plano,4.73,13.8,11.080749433388124,1
+tierra seca,bajada,4.79,170.2,13.986530621013259,0
+balasto,bajada,1.72,64.2,12.185347574110994,0
+balasto,plano,9.38,145.5,9.21351845787338,0
+pavimento,plano,1.09,166.6,19.056090526986573,0
+pasto,plano,6.85,42.1,7.0,1
+pasto,plano,0.89,124.5,7.0,0
+tierra mojada,repecho,3.69,14.3,7.0,1
+pasto,repecho,6.62,117.4,7.0,0
+pasto,plano,1.87,21.9,7.0,0
+tierra seca,repecho,2.18,44.7,7.0,0
+balasto,bajada,2.38,103.6,13.529558071544413,0
+pasto,plano,10.99,31.4,7.0,1
+pavimento,repecho,10.03,115.5,13.374704345069578,1
+pasto,plano,8.44,7.9,7.453221596912084,1
+balasto,plano,9.49,71.0,9.919761866045274,1
+balasto,plano,6.33,81.5,11.102188989019796,0
+balasto,bajada,6.57,70.7,13.652252857737306,1
+tierra mojada,bajada,4.18,56.4,11.872527948870506,0
+tierra seca,plano,7.9,171.3,10.561541653404142,0
+tierra mojada,repecho,0.79,50.9,7.0,0
+balasto,bajada,7.6,123.7,14.217360362189567,0
+tierra seca,plano,7.45,74.3,10.518831350752794,1
+pasto,bajada,8.03,179.2,9.098992011529113,0
+pasto,plano,9.14,149.7,7.0,0
+pavimento,plano,8.51,155.3,18.828962510520036,1
+tierra seca,repecho,1.38,39.1,7.0,0
+pasto,plano,4.35,34.0,7.0,0
+pavimento,plano,9.33,161.3,18.860025570628657,1
+balasto,bajada,3.9,164.8,11.702459898535832,0
+tierra seca,plano,11.34,171.4,11.326182695694431,0
+balasto,repecho,5.75,136.9,7.0,0
+pavimento,bajada,7.56,45.7,21.0,1
+pavimento,plano,10.7,148.4,17.331977362656097,1
+tierra seca,repecho,3.62,91.5,7.671654472619402,0
+tierra seca,repecho,9.97,162.9,7.036846510861692,0
+balasto,repecho,3.13,168.1,7.0,0
+pavimento,plano,6.94,65.0,19.375488527696618,1
+pasto,bajada,1.45,91.9,9.146331784102964,0
+tierra mojada,plano,6.49,80.0,7.22897985021249,0
+pasto,bajada,9.96,39.7,9.774399043643092,1
+balasto,repecho,7.11,156.0,7.0,0
+balasto,repecho,8.89,144.8,7.0,0
+pavimento,repecho,11.92,78.5,15.570397940276079,1
+tierra seca,repecho,5.71,167.2,7.229512894634084,0
+tierra mojada,plano,1.72,44.5,9.12905358870137,0
+pasto,plano,5.03,48.0,7.0,0
+tierra mojada,repecho,10.79,17.3,7.0,1
+tierra seca,plano,7.56,83.3,10.686219189663774,0
+tierra mojada,plano,7.19,92.7,8.744302286098314,0
+pasto,repecho,9.07,64.7,7.0,0
+tierra mojada,repecho,2.27,107.0,7.0,0
+pasto,repecho,3.25,122.5,7.0,0
+tierra mojada,plano,11.41,71.7,8.00425828836136,1
+tierra seca,repecho,10.56,34.0,7.965940022648961,1
+tierra mojada,bajada,5.02,157.4,10.53184924085839,0
+pasto,plano,4.96,147.2,7.0,0
+pavimento,plano,10.76,45.2,18.589090991428073,1
+tierra mojada,plano,11.68,48.3,7.0,1
+pavimento,repecho,3.1,93.1,14.531265431638731,0
+tierra mojada,bajada,6.9,94.7,11.359852261245228,0
+tierra seca,plano,5.22,34.4,9.856947652618977,1
+balasto,repecho,2.07,73.9,7.0,0
+balasto,bajada,3.94,102.1,14.14878249984142,0
+tierra mojada,bajada,5.79,36.8,11.292389876030803,1
+tierra seca,repecho,7.12,21.3,7.363196505157568,1
+tierra mojada,bajada,9.3,68.1,10.447907567078444,1
+pavimento,bajada,2.65,92.0,21.0,0
+balasto,bajada,8.83,151.5,12.174374203870737,0
+tierra mojada,repecho,9.67,157.2,7.0,0
+tierra mojada,repecho,6.54,119.2,7.0,0
+pasto,bajada,4.13,17.7,9.948914001695066,1
+tierra mojada,plano,8.27,152.2,7.0,0
+tierra seca,bajada,9.69,160.3,14.565226010318263,0
+tierra seca,repecho,4.58,118.5,7.05404438726466,0
+pavimento,bajada,2.06,25.5,21.0,1
+pavimento,plano,4.54,42.9,19.143717344624044,1
+tierra seca,repecho,6.7,168.6,7.0,0
+tierra mojada,repecho,1.36,134.5,7.0,0
+balasto,repecho,7.17,114.7,7.0,0
+tierra mojada,repecho,9.36,179.7,7.0,0
+pasto,bajada,7.35,25.8,7.578905888923023,1
+pasto,bajada,8.91,37.2,8.624107800624342,1
+pavimento,bajada,10.54,126.4,21.0,1
+tierra mojada,bajada,6.92,54.4,11.86320771138889,1
+tierra seca,plano,11.12,55.4,11.600118610585866,1
+pasto,bajada,11.49,176.6,8.573184379453696,0
+pavimento,plano,3.03,147.2,17.54291972646029,0
+pavimento,bajada,5.69,86.0,21.0,1
+pasto,repecho,7.9,118.7,7.0,0
+tierra mojada,plano,1.03,142.7,8.372397419333025,0
+tierra mojada,plano,3.32,41.6,8.400868346097973,0
+balasto,bajada,1.24,139.3,13.008641667884811,0
+pasto,plano,5.46,147.6,7.183672298920748,0
+tierra mojada,repecho,11.3,120.7,7.0,0
+pavimento,repecho,5.77,77.5,14.793983040872167,1
+tierra seca,bajada,1.7,77.6,14.775843589913396,0
+balasto,plano,6.9,167.9,10.086961722250727,0
+pasto,plano,5.76,8.5,7.0,1
+balasto,bajada,3.66,75.2,12.572963248272632,0
+tierra mojada,bajada,2.36,21.4,11.623895690018221,1
+tierra seca,bajada,6.81,43.8,14.23913452206732,1
+tierra mojada,repecho,1.75,27.2,7.0,0
+balasto,repecho,7.6,111.8,7.9951416045823915,0
+pasto,bajada,11.71,40.7,8.203447818526554,1
+tierra mojada,plano,4.92,168.0,8.1845378419045,0
+tierra mojada,repecho,4.86,118.5,7.0,0
+tierra mojada,bajada,11.11,104.4,10.16378977488122,1
+balasto,bajada,6.63,122.9,13.780787240235242,0
+tierra seca,bajada,3.31,154.5,14.194719133120431,0
+tierra seca,repecho,11.99,6.3,7.10093215714478,1
+pavimento,repecho,1.19,108.2,15.50629465884583,0
+tierra mojada,plano,4.7,127.0,7.0,0
+tierra mojada,bajada,6.98,159.3,11.45779393614982,0
+pasto,plano,4.2,20.0,7.0,1
+pasto,bajada,11.85,43.9,8.570244964789266,1
+balasto,bajada,3.76,78.2,13.715038996748365,0
+tierra mojada,repecho,11.51,158.2,7.0,0
+pavimento,repecho,2.2,164.8,14.734045972528184,0
+pavimento,plano,2.31,7.1,18.46946099949059,1
+pasto,repecho,1.66,108.6,7.0,0
+balasto,plano,4.19,54.6,8.874799498390214,0
+balasto,bajada,5.9,118.9,13.032944016279343,0
+tierra seca,repecho,6.32,148.4,7.435101603289744,0
+pasto,repecho,8.74,158.1,7.0,0
+balasto,bajada,1.64,111.1,14.464763431005252,0
+pasto,bajada,1.2,101.1,9.179431519533539,0
+tierra seca,plano,9.59,148.8,11.718844224114093,0
+balasto,plano,6.97,87.8,9.750688452840224,0
+pavimento,bajada,11.76,22.2,21.0,1
+pasto,plano,3.32,135.5,7.137301582465767,0
+tierra seca,repecho,7.28,24.4,8.012127956390662,1
+pasto,repecho,3.87,160.6,7.0,0
+tierra mojada,repecho,3.7,129.1,7.0,0
+tierra seca,bajada,4.25,46.1,13.737504663040045,1
+tierra seca,repecho,5.95,104.9,7.424978582874065,0
+tierra mojada,bajada,3.57,155.4,9.98472830811215,0
+pasto,plano,9.58,16.3,7.0,1
+tierra seca,bajada,11.83,128.6,15.625120131822802,1
+balasto,bajada,2.62,116.2,12.975404934191577,0
+tierra seca,repecho,9.29,83.3,7.0,0
+tierra seca,plano,11.06,48.5,10.928215384070706,1
+tierra mojada,bajada,7.96,142.0,9.942908742683784,0
+balasto,plano,7.6,31.5,11.268803064767894,1
+tierra mojada,bajada,7.37,82.3,12.301921071571748,1
+pavimento,repecho,4.8,83.1,14.386830532641865,0
+pasto,bajada,8.91,83.5,8.732703413295754,0
+tierra mojada,repecho,9.88,131.6,7.0,0
+pavimento,repecho,4.38,111.9,15.848261763823755,0
+pasto,bajada,3.05,24.9,8.717405046537912,1
+tierra seca,repecho,9.25,60.3,7.0,1
+tierra mojada,plano,6.79,165.8,7.0,0
+tierra seca,repecho,5.85,13.3,7.0,1
+tierra seca,plano,3.46,34.7,11.588586688224131,1
+tierra seca,bajada,11.53,138.1,13.92013233560364,1
+pavimento,repecho,4.31,118.1,15.873266895501978,0
+pavimento,repecho,3.97,49.7,14.3321190777828,1
+tierra mojada,plano,5.69,115.7,7.288156808521272,0
+pasto,repecho,3.61,52.7,7.0,0
+balasto,bajada,4.31,84.5,13.796686979497888,0
+pasto,bajada,6.73,27.6,8.639059714208468,1
+pasto,repecho,5.41,162.7,7.0,0
+pasto,bajada,8.8,138.2,10.977447260844375,0
+tierra mojada,bajada,9.43,70.9,11.205193582754832,1
+tierra mojada,bajada,11.95,16.1,11.687236846542188,1
+tierra mojada,plano,8.95,129.6,9.014098848643124,0
+tierra seca,bajada,0.51,109.7,12.992954832252531,0
+balasto,bajada,2.64,63.1,13.183568291566743,0
+balasto,bajada,11.03,59.6,12.070613312852522,1
+pavimento,repecho,2.14,130.1,15.99052824119188,0
+pavimento,repecho,1.61,38.0,16.46096747752544,0
+balasto,plano,11.85,122.6,11.610597163835681,1
+tierra mojada,repecho,8.3,12.0,7.0,1
+pasto,plano,0.55,93.8,7.0,0
+pasto,bajada,6.15,35.4,9.188095954521332,1
+balasto,bajada,8.86,156.2,13.22983260882909,0
+tierra mojada,bajada,2.74,9.7,10.34069542292842,1
+tierra mojada,repecho,7.95,72.9,7.0,0
+tierra mojada,bajada,2.27,168.1,10.96585352301802,0
+tierra seca,repecho,11.04,118.6,7.534734148228807,0
+balasto,plano,0.54,15.9,9.578794642787107,0
+balasto,bajada,4.54,127.7,13.429947083381869,0
+balasto,plano,2.18,135.9,9.366118631488522,0
+pasto,bajada,3.73,62.9,9.297860448048244,0
+tierra mojada,repecho,9.24,126.7,7.0,0
+pasto,repecho,8.29,39.1,7.0,1
+tierra seca,plano,5.55,24.6,10.789218199856771,1
+tierra seca,bajada,2.39,28.2,14.437333626093189,1
+tierra seca,bajada,4.58,61.4,14.272352354801237,1
+balasto,plano,11.07,57.5,9.049288916321384,1
+balasto,plano,4.47,145.3,10.031450452819437,0
+tierra seca,plano,11.67,101.8,11.141695864004024,1
+balasto,plano,0.93,145.7,8.801568179687163,0
+balasto,bajada,7.0,12.5,11.90564617809451,1
+pavimento,repecho,1.33,88.5,13.910359335317878,0
+pavimento,bajada,2.67,138.6,21.0,0
+tierra seca,bajada,11.54,109.1,13.83484339327157,1
+pasto,repecho,8.6,148.5,7.0,0
+tierra mojada,plano,4.22,23.4,7.72572427767213,1
+tierra mojada,bajada,3.67,21.5,10.561323569707985,1
+balasto,plano,7.73,78.7,9.179856644444659,0
+pavimento,plano,4.56,131.1,19.9666102603844,0
+tierra mojada,plano,6.1,174.1,8.06829710528207,0
+balasto,plano,6.01,9.6,9.526416953816016,1
+tierra mojada,bajada,3.44,179.9,9.961593260686833,0
+tierra seca,bajada,1.21,9.5,15.207896546496253,1
+tierra seca,bajada,11.23,169.0,14.436635007879962,0
+pasto,plano,3.86,16.2,7.0,1
+balasto,bajada,1.48,59.5,13.206596949597781,0
+balasto,plano,8.64,145.2,8.920106070163428,0
+tierra seca,repecho,5.17,153.5,7.0,0
+tierra mojada,bajada,11.36,53.1,11.273602765936817,1
+pavimento,bajada,4.72,66.5,21.0,1
+tierra mojada,repecho,3.86,96.1,7.0,0
+pasto,repecho,2.31,23.1,7.0,0
+tierra mojada,repecho,9.65,108.2,7.0,0
+tierra seca,plano,0.88,25.3,10.09441084793843,0
+pavimento,bajada,6.2,67.4,21.0,1
+balasto,plano,8.3,121.7,11.04361095769244,0
+pavimento,plano,7.23,109.4,19.858606265431327,1
+pasto,bajada,8.48,118.3,9.221875343776173,0
+tierra seca,plano,10.77,11.4,11.496297915145087,1
+pavimento,bajada,6.33,79.3,21.0,1
+pasto,repecho,5.73,172.0,7.0,0
+pavimento,repecho,11.11,102.4,15.563212059457323,1
+tierra mojada,repecho,6.81,170.3,7.0,0
+pavimento,bajada,2.09,127.3,21.0,0
+pasto,bajada,9.02,167.2,9.619112944727892,0
+pasto,bajada,8.46,118.4,9.623063773696826,0
+tierra mojada,repecho,6.52,163.8,7.0,0
+balasto,repecho,6.43,49.0,7.0,0
+pasto,bajada,8.08,28.4,8.77490400647544,1
+tierra mojada,bajada,3.94,45.6,9.697566228839031,0
+pavimento,repecho,1.16,153.8,15.625702591275791,0
+tierra mojada,plano,8.08,75.5,8.142072893538874,0
+tierra seca,plano,1.49,158.7,11.336258263820904,0
+tierra mojada,repecho,6.97,102.6,7.0,0
+tierra mojada,bajada,1.37,103.3,10.184332393466045,0
+tierra mojada,bajada,0.58,109.3,11.172406375441405,0
+pasto,bajada,0.96,68.8,9.024005230824752,0
+pavimento,plano,8.31,137.4,18.795868659982837,1
+balasto,repecho,8.46,102.9,7.0,0
+pavimento,bajada,11.89,141.9,21.0,1
+pavimento,repecho,0.74,143.6,16.502703305594505,0
+tierra mojada,repecho,0.58,55.4,7.0,0
+pavimento,repecho,7.63,57.7,14.14103806982576,1
+pasto,repecho,5.55,83.2,7.0,0
+tierra mojada,plano,6.86,80.7,7.0,0
+tierra mojada,repecho,11.22,103.8,7.0,0
+tierra seca,repecho,10.14,103.5,7.567729492510301,0
+pavimento,repecho,8.28,135.6,15.394745590546956,0
+pasto,plano,7.27,5.4,7.0,1
+tierra mojada,plano,1.99,147.9,7.115331854278305,0
+pasto,repecho,5.01,154.5,7.0,0
+balasto,plano,0.51,117.9,10.851449748997746,0
+pavimento,plano,6.21,146.7,19.304663402270137,0
+tierra mojada,bajada,11.53,128.8,9.71595521679686,0
+tierra seca,repecho,11.07,137.2,7.0,0
+balasto,bajada,6.75,138.9,12.772720795711374,0
+pasto,repecho,1.76,71.7,7.0,0
+balasto,plano,1.75,31.9,9.66293018028344,0
+balasto,plano,1.06,7.9,8.734951374791205,1
+pavimento,bajada,8.61,144.2,21.0,1
+pasto,plano,2.28,58.1,7.0,0
+pasto,plano,10.69,44.4,7.0,1
+pasto,plano,6.02,179.6,7.0899665952001705,0
+tierra seca,repecho,10.43,101.8,7.0,0
+pavimento,plano,3.86,144.8,17.95272395808961,0
+tierra mojada,repecho,7.66,95.0,7.0,0
+pasto,plano,10.9,37.3,7.0,1
+tierra seca,repecho,10.4,89.5,7.586326845950028,0
+tierra seca,bajada,9.26,29.6,13.03010536555222,1
+balasto,plano,4.21,72.7,11.152650078403411,0
+tierra mojada,bajada,9.07,17.9,10.814842561848968,1
+pasto,repecho,5.12,131.4,7.0,0
+balasto,repecho,4.99,89.7,7.0,0
+tierra seca,bajada,9.74,62.4,14.40856635937081,1
+tierra mojada,bajada,1.01,179.6,11.285405032246686,0
+tierra seca,plano,3.8,27.8,11.010062801881467,1
+balasto,bajada,11.26,5.7,12.750185444314678,1
+tierra seca,bajada,2.79,44.5,14.307778651668187,0
+tierra seca,bajada,7.57,160.8,15.248949226541185,0
+tierra mojada,repecho,4.7,33.0,7.0,0
+tierra seca,repecho,7.65,53.6,7.690473962888727,1
+pavimento,repecho,8.19,103.1,14.876773346739308,1
+tierra seca,repecho,7.89,38.2,8.284386706235171,1
+pasto,repecho,7.39,77.7,7.0,0
+tierra seca,bajada,9.95,42.9,14.741484730861233,1
+tierra mojada,plano,3.68,10.3,8.464959049595402,1
+pasto,bajada,1.1,137.3,7.99515616570557,0
+tierra seca,plano,3.34,155.4,11.573878766086942,0
+balasto,bajada,4.06,40.6,13.580566386654978,1
+balasto,bajada,2.32,78.0,12.963993087724432,0
+tierra mojada,bajada,2.95,164.0,11.148842274921751,0
+tierra seca,repecho,3.27,78.5,8.643636075696621,0
+tierra seca,bajada,4.87,105.8,15.62586961976827,0
+balasto,plano,3.91,65.5,9.562396223324004,0
+pasto,repecho,4.2,105.0,7.0,0
+balasto,bajada,8.99,34.9,12.54309126851221,1
+pasto,plano,2.62,21.5,7.934244428893157,0
+tierra seca,repecho,7.57,71.7,7.644880173440109,0
+tierra seca,plano,1.56,99.9,10.968871972171026,0
+balasto,plano,3.94,13.3,9.629244309099683,1
+pavimento,plano,10.66,47.7,19.689406795362693,1
+balasto,repecho,1.2,31.8,7.0,0
+tierra seca,repecho,5.55,133.5,7.841659908818994,0
+pavimento,repecho,11.91,137.0,14.259137567719605,1
+balasto,repecho,8.9,145.3,7.0,0
+tierra mojada,plano,7.84,95.1,7.0,0
+pavimento,plano,9.93,144.9,17.92315093772401,1
+pasto,bajada,8.66,137.5,8.482071835438706,0
+tierra seca,repecho,7.1,106.4,7.0,0
+pasto,repecho,3.43,131.8,7.0,0
+pasto,plano,2.93,38.1,7.0,0
+balasto,plano,1.54,130.5,10.003446113874528,0
+balasto,repecho,4.06,40.0,7.0,0
+pasto,plano,5.68,136.5,7.0,0
+tierra seca,plano,3.51,53.7,11.421358433683661,0
+tierra seca,bajada,11.86,62.2,15.578817149450938,1
+tierra seca,bajada,1.17,143.3,14.063738191414052,0
+tierra seca,plano,8.11,115.4,10.641368181084614,0
+tierra seca,repecho,8.33,148.1,7.341984833696671,0
+tierra seca,plano,8.6,18.7,10.931514161807081,1
+pavimento,repecho,1.48,151.3,14.368195135900176,0
+tierra mojada,bajada,6.54,167.4,10.018585012358692,0
+tierra mojada,bajada,4.51,127.2,10.375047179082395,0
+pasto,bajada,0.77,31.9,9.477556717847106,0
+pavimento,plano,7.96,141.2,19.534558274846106,1
+pavimento,bajada,0.68,41.2,21.0,0
+tierra mojada,bajada,0.73,32.6,11.224683478980419,0
+pasto,plano,11.26,144.7,7.0,0
+balasto,bajada,6.99,15.8,13.505900954052638,1
+tierra seca,plano,5.42,54.0,11.56108067067586,1
+balasto,repecho,9.34,114.9,7.0,0
+tierra mojada,bajada,8.81,100.4,10.620735621306912,0
+pavimento,bajada,11.26,114.3,21.0,1
+tierra mojada,plano,5.26,87.3,8.719999731543787,0
+pavimento,plano,8.38,12.0,18.494547448733776,1
+tierra mojada,bajada,8.35,117.5,10.602620237765036,0
+pavimento,plano,11.53,94.0,17.982515852399292,1
+pasto,repecho,3.22,54.6,7.0,0
+tierra mojada,bajada,4.72,73.4,11.935796944788413,0
+tierra seca,bajada,9.75,81.6,14.600338843522861,1
+tierra mojada,bajada,5.9,9.9,11.436871384665142,1
+pavimento,plano,11.42,61.7,19.367920213046215,1
+pavimento,bajada,7.63,86.7,20.518061668008837,1
+balasto,bajada,1.78,26.0,12.02747490522243,0
+pasto,plano,0.52,171.8,7.0,0
+balasto,plano,8.75,165.1,10.577761367173165,0
+balasto,plano,11.71,11.9,8.672322529338876,1
+pavimento,repecho,11.18,49.6,14.74471540755762,1
+balasto,plano,6.43,96.6,10.786332965169409,0
+balasto,plano,4.08,75.0,9.92090950723017,0
+tierra mojada,bajada,2.15,146.8,10.578517443210258,0
+tierra seca,plano,4.81,122.0,10.414393653675429,0
+tierra mojada,repecho,6.79,148.5,7.0,0
+pavimento,plano,10.45,72.6,18.83142481673859,1
+pavimento,bajada,6.47,100.3,21.0,1
+pasto,plano,3.01,156.7,7.714757459821584,0
+tierra seca,repecho,2.88,103.0,7.225446838946842,0
+pasto,repecho,2.1,164.2,7.0,0
+pasto,plano,6.37,11.3,7.4803705870750035,1
+pavimento,bajada,4.44,118.6,21.0,0
+pasto,bajada,1.34,37.5,8.406389260088208,0
+tierra seca,plano,2.54,159.3,9.502275598053284,0
+pasto,bajada,10.57,56.7,9.315849016916873,1
+tierra seca,repecho,11.36,130.1,8.314187441550104,0
+pavimento,plano,11.87,170.7,20.331386601198112,1
+pavimento,plano,4.13,27.7,18.178881236707845,1
+balasto,bajada,4.47,20.8,13.321399135455797,1
+pavimento,plano,2.15,171.9,19.237106416093404,0
+balasto,plano,2.77,18.4,10.988626314395313,1
+balasto,bajada,2.1,91.4,12.669115805804466,0
+tierra seca,bajada,5.57,106.7,12.869186141077877,0
+pavimento,plano,1.33,43.5,17.721201174389375,0
+pavimento,repecho,11.96,176.4,15.256836807331869,1
+pasto,bajada,4.22,46.6,8.815152256080408,0
+pasto,bajada,5.71,64.4,8.161727824904144,0
+pasto,repecho,4.61,154.1,7.0,0
+tierra seca,plano,2.62,91.7,10.804713025182318,0
+tierra mojada,bajada,7.54,51.2,11.316138514252389,1
+pavimento,repecho,0.99,103.9,15.532666478245373,0
+pasto,bajada,5.71,20.4,7.862590344762308,1
+balasto,bajada,2.72,60.1,13.60420142078088,0
+pasto,repecho,11.39,119.1,7.0,0
+pasto,plano,10.91,94.4,7.184362427144548,0
+pasto,plano,6.78,26.7,7.0,1
+pasto,bajada,10.24,71.3,10.04633249902387,1
+balasto,plano,9.17,28.7,9.418404502074122,1
+pasto,plano,3.49,47.3,7.0,0
+pavimento,repecho,11.42,122.1,14.49684371605378,1
+tierra mojada,plano,10.02,153.7,8.413592377728914,0
+tierra seca,repecho,5.04,145.0,7.0,0
+pasto,repecho,2.36,107.6,7.0,0
+pavimento,repecho,3.74,126.7,14.465329305316239,0
+balasto,bajada,5.02,118.2,13.595466870999742,0
+balasto,bajada,0.83,76.2,12.713975913156371,0
+tierra mojada,plano,2.3,83.9,7.1008225900564526,0
+tierra seca,bajada,8.89,59.2,14.22675314859571,1
+balasto,repecho,6.7,113.0,7.0,0
+pasto,bajada,1.66,138.8,8.480317032324136,0
+tierra mojada,bajada,3.02,61.6,11.218657005229499,0
+pavimento,plano,8.4,163.4,18.745578052954343,0
+tierra mojada,plano,6.94,58.5,8.289280417474867,0
+pasto,bajada,8.69,132.4,9.136764281750004,0
+tierra mojada,plano,4.2,149.9,7.743216127693022,0
+pasto,plano,9.33,51.9,7.0,1
+tierra seca,repecho,4.16,89.6,7.0,0
+tierra mojada,repecho,10.7,72.4,7.0,1
+pasto,bajada,6.47,88.9,8.420340937449673,0
+tierra mojada,repecho,8.91,114.7,7.0,0
+pavimento,plano,6.36,8.6,18.9749162394588,1
+pavimento,repecho,8.66,144.2,14.867785623982051,0
+pavimento,plano,0.89,72.0,19.71153076521962,0
+tierra mojada,bajada,0.86,125.8,11.457676578878786,0
+pavimento,plano,3.37,99.1,19.692653602543857,0
+tierra mojada,plano,7.18,6.1,8.195951381635574,1
+pavimento,bajada,5.69,41.3,21.0,1
+pasto,bajada,10.39,74.4,8.924800980616972,1
+pavimento,bajada,0.72,75.7,21.0,0
+pasto,plano,11.56,128.7,7.0,0
+tierra seca,bajada,9.57,102.2,14.886141871587007,1
+tierra mojada,repecho,8.02,162.3,7.0,0
+pasto,bajada,8.54,89.8,8.646948404883453,0
+balasto,repecho,1.7,28.4,7.0,0
+balasto,plano,1.43,131.6,10.44027608112391,0
+pasto,repecho,3.72,95.8,7.0,0
+pavimento,repecho,2.51,22.9,14.718656496311587,1
+pavimento,repecho,1.72,112.5,16.175010995723664,0
+balasto,repecho,2.69,15.8,7.0,1
+pasto,bajada,8.54,67.4,9.901554514569838,1
+tierra seca,bajada,7.03,37.5,13.483522718033862,1
+tierra seca,bajada,11.72,124.8,14.597477448507435,1
+tierra seca,bajada,4.35,31.7,13.828915519204868,1
+tierra mojada,repecho,7.44,35.9,7.0,1
+tierra mojada,bajada,11.73,10.7,12.106297791232587,1
+tierra seca,repecho,1.27,35.1,7.0,0
+balasto,repecho,6.68,119.7,7.0,0
+balasto,repecho,5.98,94.0,7.5955427957448585,0
+tierra mojada,bajada,10.33,8.6,12.163614432767229,1
+pasto,repecho,4.41,31.2,7.0,0
+tierra mojada,plano,10.23,17.4,8.364809745687303,1
+tierra mojada,plano,11.5,53.8,7.0,1
+pasto,repecho,3.76,148.0,7.0,0
+pasto,plano,5.36,147.7,7.0,0
+pavimento,repecho,11.98,88.7,14.40304419715436,1
+pasto,repecho,2.93,12.4,7.0,1
+balasto,repecho,3.82,127.5,7.0,0
+balasto,plano,7.58,27.7,10.307467167450726,1
+balasto,bajada,10.96,42.9,14.697339988052752,1
+balasto,plano,1.47,16.4,9.197346087710653,0
+pasto,plano,9.81,75.5,7.0,0
+pavimento,plano,6.63,125.4,17.40866594296218,0
+tierra seca,repecho,11.97,66.3,7.0,1
+tierra seca,bajada,6.87,65.2,13.725171424939441,1
+pavimento,plano,6.48,144.7,18.893538846390985,0
+pasto,repecho,0.54,113.4,7.0,0
+balasto,repecho,10.32,74.5,7.298378758903505,1
+balasto,plano,7.61,15.3,9.448523798226127,1
+balasto,plano,1.18,134.8,9.465300253360374,0
+tierra seca,repecho,1.67,169.5,7.0,0
+balasto,plano,10.16,17.3,10.163478149767164,1
+balasto,bajada,6.38,147.0,13.024907882355983,0
+pavimento,bajada,7.04,46.0,21.0,1
+tierra seca,repecho,9.31,158.5,7.172275034630999,0
+tierra mojada,repecho,2.6,17.0,7.0,1
+tierra mojada,bajada,10.76,126.0,10.367572440221664,0
+tierra mojada,bajada,6.09,134.8,12.208909253087308,0
+pasto,plano,8.08,176.3,7.0,0
+tierra seca,plano,7.27,30.7,10.360530828540021,1
+pavimento,bajada,1.87,94.6,20.983000672070077,0
+balasto,plano,2.45,131.6,10.314979999451518,0
+pasto,repecho,0.8,96.3,7.0,0
+tierra seca,bajada,5.92,152.4,14.638287360223416,0
+tierra mojada,bajada,2.27,131.0,10.428695126239958,0
+tierra mojada,bajada,9.24,95.8,10.646515374165704,1
+pavimento,plano,5.55,36.6,19.05982143130841,1
+tierra seca,bajada,9.45,144.7,15.342055559900329,1
+tierra mojada,bajada,3.64,87.0,10.422111712906093,0
+tierra mojada,repecho,4.82,158.1,7.0,0
+tierra mojada,plano,1.1,134.9,8.261039154745248,0
+pasto,bajada,9.42,98.6,9.196757847516936,0
+tierra seca,bajada,6.37,58.4,13.566335362244399,1
+tierra mojada,plano,3.13,108.6,8.080114329968062,0
+tierra mojada,bajada,2.09,46.5,10.64602164571999,0
+balasto,bajada,10.87,150.5,11.58303612928651,0
+pasto,plano,7.02,150.0,7.0,0
+tierra seca,bajada,3.97,12.2,13.623262871484112,1
+pavimento,repecho,10.99,24.2,15.89742732078767,1
+pasto,plano,6.13,102.1,7.0,0
+pavimento,repecho,11.7,119.3,15.415282398365457,1
+tierra seca,plano,4.34,31.1,9.828374105349129,1
+tierra seca,bajada,9.98,78.7,13.709911239650467,1
+tierra seca,bajada,11.65,35.6,14.27119560837986,1
+tierra mojada,bajada,8.07,178.6,11.774992425538846,0
+pavimento,repecho,3.7,118.4,15.588915409808845,0
+balasto,plano,8.03,98.9,11.417207425989396,0
+pasto,repecho,11.66,85.4,7.0,0
+balasto,repecho,3.28,156.3,7.0,0
+tierra seca,repecho,1.79,55.5,7.0,0
+balasto,plano,10.28,179.3,11.277622287880787,0
+pavimento,bajada,4.61,88.8,21.0,1
+tierra seca,repecho,9.36,8.3,7.0,1
+pasto,plano,5.79,27.9,7.0,1
+pasto,plano,2.66,137.4,7.01603434714154,0
+pasto,plano,6.43,158.5,7.0,0
+tierra mojada,bajada,3.95,80.5,10.398377022030752,0
+pasto,repecho,3.32,19.8,7.0,1
+balasto,repecho,10.28,133.3,7.0,0
+pavimento,repecho,8.34,46.0,15.58202695490064,1
+pasto,repecho,4.15,119.4,7.0,0
+tierra mojada,plano,1.54,121.6,8.30237010082726,0
+pavimento,plano,1.06,10.2,19.65445607461959,1
+pasto,plano,4.59,53.1,7.0,0
+tierra seca,bajada,8.85,54.7,13.13781091356219,1
+tierra mojada,repecho,0.52,123.3,7.0,0
+pavimento,repecho,9.35,131.7,15.324909803764353,1
+tierra seca,repecho,11.89,47.5,7.0,1
+balasto,repecho,2.34,120.6,7.0,0
+tierra seca,bajada,6.87,105.8,14.430798282912866,0
+pavimento,repecho,2.37,68.7,14.346393079406337,0
+balasto,bajada,9.95,18.8,13.709461063039363,1
+tierra mojada,bajada,8.3,143.4,10.58670019042021,0
+pasto,repecho,8.23,139.6,7.0,0
+tierra mojada,repecho,7.9,159.6,7.0,0
+balasto,plano,8.89,40.5,9.743807406158854,1
+pavimento,repecho,5.5,36.8,14.22414554939054,1
+pavimento,plano,7.67,166.5,17.278107341716574,0
+tierra seca,plano,8.55,61.3,11.868487522379247,1
+balasto,bajada,1.72,175.3,14.28125710231634,0
+tierra mojada,bajada,8.26,86.7,11.484420164179449,1
+tierra mojada,bajada,2.06,101.1,10.401048901304035,0
+pasto,plano,2.98,169.3,7.0,0
+balasto,repecho,1.76,114.0,7.0,0
+balasto,bajada,2.74,51.4,13.059941662852982,0
+pavimento,plano,4.25,52.5,19.150968770728973,1
+balasto,bajada,4.41,125.7,13.232106661671004,0
+balasto,bajada,2.81,5.2,13.293069575147248,1
+tierra mojada,bajada,3.64,179.1,11.552445854619403,0
+pavimento,bajada,4.07,86.1,21.0,0
+tierra mojada,repecho,1.95,26.8,7.0,0
+pasto,repecho,10.64,23.8,7.0,1
+tierra mojada,bajada,8.39,165.4,12.424830767393836,0
+pavimento,bajada,7.16,76.5,21.0,1
+balasto,plano,10.56,52.9,10.515318669721585,1
+tierra mojada,bajada,0.9,54.2,11.400966661691372,0
+pasto,bajada,1.78,28.2,9.51372236183941,0
+pasto,repecho,11.36,13.1,7.0,1
+tierra seca,repecho,11.96,65.9,7.249098503297329,1
+tierra seca,plano,10.35,132.5,10.281585797268637,0
+pasto,bajada,8.86,154.5,8.717522934865755,0
+tierra seca,repecho,5.1,88.7,7.0,0
+balasto,repecho,11.74,82.8,7.0,0
+balasto,plano,2.04,57.0,11.236717183822918,0
+tierra mojada,plano,2.42,65.6,8.290846772049008,0
+tierra mojada,bajada,7.54,162.7,11.264245849742037,0
+pavimento,bajada,4.46,108.3,21.0,0
+tierra seca,bajada,5.64,100.0,14.15171239921791,0
+balasto,plano,1.31,63.9,9.65431059163759,0
+tierra seca,bajada,7.46,76.8,13.467187348831683,1
+tierra mojada,repecho,4.45,46.4,7.0,0
+tierra seca,repecho,8.34,13.7,7.0,1
+tierra seca,plano,2.91,44.5,11.310841345023372,0
+tierra seca,bajada,1.32,11.4,13.173330003208777,1
+tierra mojada,plano,10.49,24.4,7.057768185839303,1
+tierra seca,plano,4.69,89.4,10.164870580328428,0
+tierra seca,plano,5.27,178.2,10.50916595256868,0
+balasto,repecho,6.27,93.2,7.0,0
+balasto,plano,5.54,52.7,9.81100029390105,1
+pavimento,plano,2.96,129.1,18.6415498126862,0
+tierra seca,plano,0.55,83.2,11.056396983216931,0
+pasto,bajada,5.45,19.3,8.713114117169095,1
+pasto,plano,4.05,179.6,7.0,0
+tierra seca,plano,11.62,156.9,10.370398413221967,0
+pasto,repecho,2.07,124.8,7.0,0
+balasto,bajada,3.65,172.2,13.30564605957,0
+tierra seca,bajada,2.66,88.9,15.29129113841959,0
+tierra mojada,repecho,5.52,41.5,7.0,0
+tierra seca,plano,9.87,132.7,10.843996497876464,0
+pasto,plano,5.52,106.3,7.0,0
+tierra seca,repecho,6.34,169.6,7.57295659177014,0
+pavimento,bajada,3.22,92.6,21.0,0
+balasto,plano,8.72,53.1,10.580259250517301,1
+tierra seca,repecho,5.23,75.4,7.0,0
+balasto,plano,9.55,164.1,10.887539351353645,0
+pavimento,bajada,8.35,134.5,21.0,1
